@@ -18,6 +18,8 @@
     "webpack-cli": "^3.3.0"
   },
   "dependencies": {
-    "leaflet": "^1.4.0"
+    "leaflet": "^1.4.0",
+    "ramda": "^0.26.1",
+    "surge": "^0.20.3"
   }
 }
